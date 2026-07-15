@@ -1,0 +1,6 @@
+keyboard
+mss
+pygetwindow
+mouse
+pywin32
+win32api
